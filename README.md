@@ -13,7 +13,8 @@ and I am a Senior Data Scientist and researcher!
 If you are interested in more details, check out [my website](https://walidiguider.com)!  
 
 
-[![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiguider&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats).  
+[![Walid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wiguider&theme=radical&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiguider&theme=radical&show_icons=true&count_private=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=wiguider&color=brightgreen)
